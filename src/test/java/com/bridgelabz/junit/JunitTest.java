@@ -66,7 +66,10 @@ public class JunitTest {
         Assert.assertEquals(new MoodAnalyser("I am in HAPPY mood"),moodAnalyser);
     }
 
-
+    @Test
+    public void name() {
+        System.out.println("Hello Pooja ");
+    }
 }
 
 

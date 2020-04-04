@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deacb7a2-113e-4094-9ba1-5dbd5c672140" name="Default Changelist" comment="" />
+    <list default="true" id="deacb7a2-113e-4094-9ba1-5dbd5c672140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/junit/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/junit/JunitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zw67sWCot9OL3ra6XkE5tMGjRu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -182,22 +191,22 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585745657580" />
-    <state width="879" height="275" key="GridCell.Tab.0.bottom" timestamp="1585913391020">
+    <state width="879" height="275" key="GridCell.Tab.0.bottom" timestamp="1585983799955">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
-    <state width="879" height="275" key="GridCell.Tab.0.center" timestamp="1585913391020">
+    <state width="879" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585983799955" />
+    <state width="879" height="275" key="GridCell.Tab.0.center" timestamp="1585983799953">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
-    <state width="879" height="275" key="GridCell.Tab.0.left" timestamp="1585913391019">
+    <state width="879" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585983799953" />
+    <state width="879" height="275" key="GridCell.Tab.0.left" timestamp="1585983799952">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391019" />
-    <state width="879" height="275" key="GridCell.Tab.0.right" timestamp="1585913391020">
+    <state width="879" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585983799952" />
+    <state width="879" height="275" key="GridCell.Tab.0.right" timestamp="1585983799954">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
+    <state width="879" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585983799954" />
     <state width="879" height="340" key="GridCell.Tab.1.bottom" timestamp="1585901176687">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
