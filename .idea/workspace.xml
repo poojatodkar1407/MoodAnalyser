@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deacb7a2-113e-4094-9ba1-5dbd5c672140" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw67sWCot9OL3ra6XkE5tMGjRu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bridgelabz.junit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.JunitTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject">
+    <configuration name="JunitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.junit.JunitTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JunitTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.junit.JunitTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JunitTest.givenNullMood_ShouldReturnHappy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.junit.JunitTest.givenNullMood_ShouldReturnHappy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JunitTest.givenNull_ShouldReturnHappy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.junit.JunitTest.givenNull_ShouldReturnHappy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JunitTest.whenGIvenNAme_whenProper_shouldReturnTRue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.junit.JunitTest.whenGIvenNAme_whenProper_shouldReturnTRue&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.JunitTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject" />
+        <item itemvalue="Gradle.JunitTest" />
+        <item itemvalue="Gradle.JunitTest.givenNullMood_ShouldReturnHappy" />
+        <item itemvalue="Gradle.JunitTest.givenNull_ShouldReturnHappy" />
+        <item itemvalue="Gradle.JunitTest.whenGIvenNAme_whenProper_shouldReturnTRue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deacb7a2-113e-4094-9ba1-5dbd5c672140" name="Default Changelist" comment="" />
+      <created>1585737644535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585737644535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585824819457">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="340" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1585824819457" />
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585745657580">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585745657580" />
+    <state width="879" height="275" key="GridCell.Tab.0.bottom" timestamp="1585913391020">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
+    <state width="879" height="275" key="GridCell.Tab.0.center" timestamp="1585913391020">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
+    <state width="879" height="275" key="GridCell.Tab.0.left" timestamp="1585913391019">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391019" />
+    <state width="879" height="275" key="GridCell.Tab.0.right" timestamp="1585913391020">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585913391020" />
+    <state width="879" height="340" key="GridCell.Tab.1.bottom" timestamp="1585901176687">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585901176687" />
+    <state width="879" height="340" key="GridCell.Tab.1.center" timestamp="1585901176686">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585901176686" />
+    <state width="879" height="340" key="GridCell.Tab.1.left" timestamp="1585901176685">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585901176685" />
+    <state width="879" height="340" key="GridCell.Tab.1.right" timestamp="1585901176686">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585901176686" />
+    <state x="471" y="173" width="1024" height="852" key="SettingsEditor" timestamp="1585983212241">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="471" y="173" width="1024" height="852" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1585983212241" />
+    <state x="691" y="182" width="598" height="750" key="refactoring.ChangeSignatureDialog" timestamp="1585827235513">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="691" y="182" width="598" height="750" key="refactoring.ChangeSignatureDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585827235513" />
+    <state x="1121" y="252" key="run.anything.popup" timestamp="1585900557099">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1121" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1585900557099" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1585746103544">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1585746103544" />
+  </component>
+</project>
